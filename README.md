@@ -1,4 +1,4 @@
-# DATA SCIENCE HOUSE PREDICTION PROJECT (https://github.com/EasyLion05/Adeoluwa_Portfolio)
+# [DATA SCIENCE HOUSE PREDICTION PROJECT](https://github.com/EasyLion05/Adeoluwa_Portfolio)
 - Data Cleaning
 - EDA
 - Built model
