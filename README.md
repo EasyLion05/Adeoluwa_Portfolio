@@ -2,3 +2,6 @@
 - Data Cleaning
 - EDA
 - Built model
+
+
+Walk with me
