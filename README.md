@@ -1,2 +1,4 @@
-# Adeoluwa_Portfolio
-Data Science Portfolio
+# DATA SCIENCE HOUSE PREDICTION PROJECT
+- Data Cleaning
+- EDA
+- Built model
